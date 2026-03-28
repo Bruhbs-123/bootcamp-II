@@ -91,4 +91,3 @@ Este projeto segue o padrão SemVer:
 
     Instituição: CEUB
 
-    LinkedIn: [Seu Link Aqui]
